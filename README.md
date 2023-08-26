@@ -65,6 +65,10 @@ The script will start the bot, which will continuously monitor selected subreddi
 - Keep your API keys and sensitive information secure.
 - Regularly review the script and its behavior to ensure it's working as intended.
 
+- ## License
+
+This project is licensed under the terms of the GNU General Public License v3.0. For more details, please see the [LICENSE](LICENSE) file.
+
 ## Disclaimer
 
 This script is provided as-is and may require modifications to fit your specific use case. Use it responsibly and adhere to Reddit's and OpenAI's terms of service. The creators of this script are not responsible for any misuse or unintended consequences of its usage.
