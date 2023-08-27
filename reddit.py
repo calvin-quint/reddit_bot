@@ -109,7 +109,6 @@ def run_bot():
     logger.info("Bot started.")
 
     subreddit_names = [
-        "antiwork",
         "technology",
         "worldnews",
         "AskReddit",
